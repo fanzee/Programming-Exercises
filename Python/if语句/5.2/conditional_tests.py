@@ -1,0 +1,13 @@
+print('python' == 'Python')
+print('python' == 'Python'.lower())
+print(1 == 2)
+print(1 != 2)
+print(1 > 2)
+print(1 <= 2)
+print(1 >= 1)
+print(1 <= 2)
+print(('python' == 'Python') and ('python' == 'Python'.lower()))
+print(('python' == 'Python') or ('python' == 'Python'.lower()))
+tests = ['python', 'java']
+print('java' in tests)
+print('c' in tests)

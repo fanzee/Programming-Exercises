@@ -2,17 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b9438130-4387-449d-8f59-720e02ecbe51" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/操作列表/4.3/count_20.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/操作列表/4.3/cube.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/操作列表/4.3/list_analyze.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/操作列表/4.3/million.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/操作列表/4.3/million_total.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/操作列表/4.3/odd_numbers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/操作列表/4.3/times_3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/操作列表/4.4/more_loops.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/操作列表/4.4/piece.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/操作列表/4.4/pizza.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/操作列表/4.5/buffet.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/if语句/5.2/conditional_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/if语句/5.2/conditional_tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/if语句/5.3/age.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/if语句/5.3/alien_colors_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/if语句/5.3/alien_colors_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/if语句/5.3/alien_colors_3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/if语句/5.3/favorite_fruits.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -29,6 +25,7 @@
     <SUITE FILE_PATH="coverage/Python$modify_guests.coverage" NAME="modify_guests Coverage Results" MODIFIED="1541228424981" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/列表简介/3.2" />
     <SUITE FILE_PATH="coverage/Python$append_guests.coverage" NAME="append_guests Coverage Results" MODIFIED="1541228756582" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/列表简介/3.2" />
     <SUITE FILE_PATH="coverage/Python$more_loops.coverage" NAME="more_loops Coverage Results" MODIFIED="1541490732092" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/操作列表/4.4" />
+    <SUITE FILE_PATH="coverage/Python$conditional_test.coverage" NAME="conditional_test Coverage Results" MODIFIED="1541594251459" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/if语句/5.2" />
     <SUITE FILE_PATH="coverage/Python$personalized_message.coverage" NAME="personalized_message Coverage Results" MODIFIED="1541080625297" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/变量与简单数据类型" />
     <SUITE FILE_PATH="coverage/Python$name_function__1_.coverage" NAME="name_function (1) Coverage Results" MODIFIED="1541079208175" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python$name_function.coverage" NAME="name_function Coverage Results" MODIFIED="1541076463488" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -38,99 +35,69 @@
     <SUITE FILE_PATH="coverage/Python$guest_lists.coverage" NAME="guest_lists Coverage Results" MODIFIED="1541227990981" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/列表简介/3.2" />
     <SUITE FILE_PATH="coverage/Python$simple_message.coverage" NAME="simple_message Coverage Results" MODIFIED="1541077279825" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/变量与简单数据类型" />
     <SUITE FILE_PATH="coverage/Python$greeting.coverage" NAME="greeting Coverage Results" MODIFIED="1541221846835" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/列表简介/3.1" />
+    <SUITE FILE_PATH="coverage/Python$conditional_tests.coverage" NAME="conditional_tests Coverage Results" MODIFIED="1541594865224" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/if语句/5.2" />
     <SUITE FILE_PATH="coverage/Python$simple_messages.coverage" NAME="simple_messages Coverage Results" MODIFIED="1541076667706" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/变量与简单数据类型" />
     <SUITE FILE_PATH="coverage/Python$count_20.coverage" NAME="count_20 Coverage Results" MODIFIED="1541472618795" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/操作列表/4.3" />
     <SUITE FILE_PATH="coverage/Python$odd_numbers.coverage" NAME="odd_numbers Coverage Results" MODIFIED="1541473044634" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/操作列表/4.3" />
     <SUITE FILE_PATH="coverage/Python$guests.coverage" NAME="guests Coverage Results" MODIFIED="1541424714026" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/列表简介/3.3" />
     <SUITE FILE_PATH="coverage/Python$pizzas.coverage" NAME="pizzas Coverage Results" MODIFIED="1541425039473" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/操作列表/4.2" />
+    <SUITE FILE_PATH="coverage/Python$alien_colors_2.coverage" NAME="alien_colors_2 Coverage Results" MODIFIED="1541596398200" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/if语句/5.3" />
+    <SUITE FILE_PATH="coverage/Python$alien_colors_3.coverage" NAME="alien_colors_3 Coverage Results" MODIFIED="1541596902796" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/if语句/5.3" />
     <SUITE FILE_PATH="coverage/Python$times_3.coverage" NAME="times_3 Coverage Results" MODIFIED="1541473148631" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/操作列表/4.3" />
     <SUITE FILE_PATH="coverage/Python$vehicles.coverage" NAME="vehicles Coverage Results" MODIFIED="1541223774187" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/列表简介/3.1" />
     <SUITE FILE_PATH="coverage/Python$number_8.coverage" NAME="number_8 Coverage Results" MODIFIED="1541152817963" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/变量与简单数据类型" />
     <SUITE FILE_PATH="coverage/Python$saying.coverage" NAME="saying Coverage Results" MODIFIED="1541158030698" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/变量与简单数据类型/2.3" />
+    <SUITE FILE_PATH="coverage/Python$alien_colors.coverage" NAME="alien_colors Coverage Results" MODIFIED="1541596241783" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/if语句/5.3" />
+    <SUITE FILE_PATH="coverage/Python$age.coverage" NAME="age Coverage Results" MODIFIED="1541598080795" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/if语句/5.3" />
     <SUITE FILE_PATH="coverage/Python$adjust_name.coverage" NAME="adjust_name Coverage Results" MODIFIED="1541081126837" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/变量与简单数据类型" />
     <SUITE FILE_PATH="coverage/Python$processing_blank.coverage" NAME="processing_blank Coverage Results" MODIFIED="1541158461769" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/变量与简单数据类型/2.4" />
     <SUITE FILE_PATH="coverage/Python$remove_guests.coverage" NAME="remove_guests Coverage Results" MODIFIED="1541229535289" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/列表简介/3.2" />
     <SUITE FILE_PATH="coverage/Python$million.coverage" NAME="million Coverage Results" MODIFIED="1541472918724" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/操作列表/4.3" />
     <SUITE FILE_PATH="coverage/Python$piece.coverage" NAME="piece Coverage Results" MODIFIED="1541489790162" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/操作列表/4.4" />
+    <SUITE FILE_PATH="coverage/Python$favorite_fruits.coverage" NAME="favorite_fruits Coverage Results" MODIFIED="1541598576392" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/if语句/5.3" />
     <SUITE FILE_PATH="coverage/Python$world.coverage" NAME="world Coverage Results" MODIFIED="1541410004432" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/列表简介/3.3" />
   </component>
   <component name="FUSProjectUsageTrigger">
     <session id="-1394696835">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="9" />
+          <entry key="project.closed" value="11" />
           <entry key="project.open.time.11" value="3" />
-          <entry key="project.open.time.13" value="1" />
+          <entry key="project.open.time.12" value="1" />
+          <entry key="project.open.time.13" value="2" />
           <entry key="project.open.time.15" value="2" />
           <entry key="project.open.time.18" value="1" />
           <entry key="project.open.time.19" value="1" />
           <entry key="project.open.time.4" value="1" />
-          <entry key="project.opened" value="9" />
+          <entry key="project.opened" value="11" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="dummy" value="36" />
-          <entry key="py" value="1782" />
+          <entry key="dummy" value="39" />
+          <entry key="py" value="2286" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="63" />
-          <entry key="Python" value="1755" />
+          <entry key="PLAIN_TEXT" value="66" />
+          <entry key="Python" value="2259" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="36" />
+          <entry key="py" value="43" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Python" value="36" />
+          <entry key="Python" value="43" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/操作列表/4.4/piece.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="198">
-              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/操作列表/4.4/pizza.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="88">
-              <caret line="4" column="32" lean-forward="true" selection-start-line="4" selection-end-line="4" selection-end-column="32" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/操作列表/4.4/more_loops.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="198">
-              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/操作列表/4.5/buffet.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="176">
-              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -180,6 +147,13 @@
         <option value="$PROJECT_DIR$/操作列表/4.4/pizza.py" />
         <option value="$PROJECT_DIR$/操作列表/4.4/more_loops.py" />
         <option value="$PROJECT_DIR$/操作列表/4.5/buffet.py" />
+        <option value="$PROJECT_DIR$/if语句/5.2/conditional_test.py" />
+        <option value="$PROJECT_DIR$/if语句/5.2/conditional_tests.py" />
+        <option value="$PROJECT_DIR$/if语句/5.3/alien_colors.py" />
+        <option value="$PROJECT_DIR$/if语句/5.3/alien_colors_2.py" />
+        <option value="$PROJECT_DIR$/if语句/5.3/alien_colors_3.py" />
+        <option value="$PROJECT_DIR$/if语句/5.3/age.py" />
+        <option value="$PROJECT_DIR$/if语句/5.3/favorite_fruits.py" />
       </list>
     </option>
   </component>
@@ -202,7 +176,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -213,12 +186,19 @@
             <path>
               <item name="Python" type="b2602c69:ProjectViewProjectNode" />
               <item name="Python" type="462c0819:PsiDirectoryNode" />
-              <item name="操作列表" type="462c0819:PsiDirectoryNode" />
+              <item name="if语句" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Python" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Python" type="462c0819:PsiDirectoryNode" />
+              <item name="if语句" type="462c0819:PsiDirectoryNode" />
+              <item name="5.3" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -248,8 +228,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.buffet">
-    <configuration name="buffet" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.favorite_fruits">
+    <configuration name="age" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -257,12 +237,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/操作列表/4.5" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/if语句/5.3" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/操作列表/4.5/buffet.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/if语句/5.3/age.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -271,7 +251,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="list_analyze" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="alien_colors" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -279,12 +259,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/操作列表/4.3" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/if语句/5.3" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/操作列表/4.3/list_analyze.py" />
+      <option name="SCRIPT_NAME" value="D:\编程练习\Python\if语句\5.3\alien_colors_1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -293,7 +273,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="more_loops" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="alien_colors_2" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -301,12 +281,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/操作列表/4.4" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/if语句/5.3" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/操作列表/4.4/more_loops.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/if语句/5.3/alien_colors_2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -315,7 +295,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="piece" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="alien_colors_3" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -323,12 +303,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/操作列表/4.4" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/if语句/5.3" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/操作列表/4.4/piece.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/if语句/5.3/alien_colors_3.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -337,7 +317,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="pizza" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="favorite_fruits" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -345,12 +325,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/操作列表/4.4" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/if语句/5.3" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/操作列表/4.4/pizza.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/if语句/5.3/favorite_fruits.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -360,19 +340,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.list_analyze" />
-      <item itemvalue="Python.piece" />
-      <item itemvalue="Python.pizza" />
-      <item itemvalue="Python.more_loops" />
-      <item itemvalue="Python.buffet" />
+      <item itemvalue="Python.alien_colors" />
+      <item itemvalue="Python.alien_colors_2" />
+      <item itemvalue="Python.alien_colors_3" />
+      <item itemvalue="Python.age" />
+      <item itemvalue="Python.favorite_fruits" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.buffet" />
-        <item itemvalue="Python.more_loops" />
-        <item itemvalue="Python.pizza" />
-        <item itemvalue="Python.piece" />
-        <item itemvalue="Python.list_analyze" />
+        <item itemvalue="Python.favorite_fruits" />
+        <item itemvalue="Python.age" />
+        <item itemvalue="Python.alien_colors_3" />
+        <item itemvalue="Python.alien_colors_2" />
+        <item itemvalue="Python.alien_colors" />
       </list>
     </recent_temporary>
   </component>
@@ -391,9 +371,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1096" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.11247335" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.114605546" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -576,13 +555,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/操作列表/4.4/piece.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/操作列表/4.2/pizzas.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -597,17 +569,24 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/操作列表/4.4/piece.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/操作列表/4.4/pizza.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="88">
-          <caret line="4" column="32" lean-forward="true" selection-start-line="4" selection-end-line="4" selection-end-column="32" />
+          <caret line="4" column="32" selection-start-line="4" selection-end-line="4" selection-end-column="32" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/操作列表/4.4/more_loops.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="198">
-          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
         </state>
       </provider>
     </entry>
@@ -615,6 +594,55 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="176">
           <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/if语句/5.2/conditional_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/if语句/5.2/conditional_tests.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/if语句/5.3/alien_colors_1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="4" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/if语句/5.3/alien_colors_2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="1" column="23" selection-start-line="1" selection-start-column="23" selection-end-line="1" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/if语句/5.3/alien_colors_3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" lean-forward="true" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/if语句/5.3/age.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/if语句/5.3/favorite_fruits.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
         </state>
       </provider>
     </entry>
