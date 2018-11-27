@@ -2,12 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b9438130-4387-449d-8f59-720e02ecbe51" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Python基础/类/9.1/restaurant.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python基础/类/9.1/three_restaurants.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python基础/类/9.1/user.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python基础/类/9.2/number_of_people.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python基础/类/9.2/user.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python基础/类/9.3/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python基础/类/9.3/electric_car.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python基础/类/9.3/icecream_stand.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python基础/类/9.3/privileges.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python基础/类/9.4/import_admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python基础/类/9.4/import_more.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python基础/类/9.4/import_restaurant.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python基础/类/9.5/die.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python基础/类/9.5/ordered_dict.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Python.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Python.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python基础/类/9.1/restaurant.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python基础/类/9.1/restaurant.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -21,7 +27,9 @@
     <SUITE FILE_PATH="coverage/Python$append_guests.coverage" NAME="append_guests Coverage Results" MODIFIED="1541228756582" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/列表简介/3.2" />
     <SUITE FILE_PATH="coverage/Python$user.coverage" NAME="user Coverage Results" MODIFIED="1543240098845" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python基础/类/9.1" />
     <SUITE FILE_PATH="coverage/Python$times_10.coverage" NAME="times_10 Coverage Results" MODIFIED="1542892224050" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python基础/用户输入和while循环/7.1" />
+    <SUITE FILE_PATH="coverage/Python$electric_car.coverage" NAME="electric_car Coverage Results" MODIFIED="1543288418069" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python基础/类/9.3" />
     <SUITE FILE_PATH="coverage/Python$names.coverage" NAME="names Coverage Results" MODIFIED="1541221638776" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/列表简介/3.1" />
+    <SUITE FILE_PATH="coverage/Python$admin.coverage" NAME="admin Coverage Results" MODIFIED="1543286985336" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python基础/类/9.3" />
     <SUITE FILE_PATH="coverage/Python$conditional_tests.coverage" NAME="conditional_tests Coverage Results" MODIFIED="1541594865224" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/if语句/5.2" />
     <SUITE FILE_PATH="coverage/Python$user_album.coverage" NAME="user_album Coverage Results" MODIFIED="1543043050153" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python基础/函数/8.3" />
     <SUITE FILE_PATH="coverage/Python$buffet.coverage" NAME="buffet Coverage Results" MODIFIED="1541491227231" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/操作列表/4.5" />
@@ -32,6 +40,7 @@
     <SUITE FILE_PATH="coverage/Python$restaurant_reservation.coverage" NAME="restaurant_reservation Coverage Results" MODIFIED="1542892016895" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python基础/用户输入和while循环/7.1" />
     <SUITE FILE_PATH="coverage/Python$import.coverage" NAME="import Coverage Results" MODIFIED="1543047940873" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python基础/函数/8.7" />
     <SUITE FILE_PATH="coverage/Python$pastrami.coverage" NAME="pastrami Coverage Results" MODIFIED="1542952999175" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python基础/用户输入和while循环/7.3" />
+    <SUITE FILE_PATH="coverage/Python$die.coverage" NAME="die Coverage Results" MODIFIED="1543290183172" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python基础/类/9.5" />
     <SUITE FILE_PATH="coverage/Python$million.coverage" NAME="million Coverage Results" MODIFIED="1541472918724" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/操作列表/4.3" />
     <SUITE FILE_PATH="coverage/Python$pizzas.coverage" NAME="pizzas Coverage Results" MODIFIED="1541425039473" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/操作列表/4.2" />
     <SUITE FILE_PATH="coverage/Python$more_loops.coverage" NAME="more_loops Coverage Results" MODIFIED="1541490732092" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/操作列表/4.4" />
@@ -42,6 +51,7 @@
     <SUITE FILE_PATH="coverage/Python$numpy_practice.coverage" NAME="numpy_practice Coverage Results" MODIFIED="1542807131953" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数据分析" />
     <SUITE FILE_PATH="coverage/Python$shirt.coverage" NAME="shirt Coverage Results" MODIFIED="1543038074223" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python基础/函数/8.2" />
     <SUITE FILE_PATH="coverage/Python$display_message.coverage" NAME="display_message Coverage Results" MODIFIED="1543037301361" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python基础/函数/8.1" />
+    <SUITE FILE_PATH="coverage/Python$privileges.coverage" NAME="privileges Coverage Results" MODIFIED="1543287416035" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python基础/类/9.3" />
     <SUITE FILE_PATH="coverage/Python$album.coverage" NAME="album Coverage Results" MODIFIED="1543041131153" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python基础/函数/8.3" />
     <SUITE FILE_PATH="coverage/Python$vehicles.coverage" NAME="vehicles Coverage Results" MODIFIED="1541223774187" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/列表简介/3.1" />
     <SUITE FILE_PATH="coverage/Python$big_shirt.coverage" NAME="big_shirt Coverage Results" MODIFIED="1543038362454" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python基础/函数/8.2" />
@@ -49,6 +59,8 @@
     <SUITE FILE_PATH="coverage/Python$vocabulary_2.coverage" NAME="vocabulary_2 Coverage Results" MODIFIED="1541755897628" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/字典/6.3" />
     <SUITE FILE_PATH="coverage/Python$saying.coverage" NAME="saying Coverage Results" MODIFIED="1541158030698" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/变量与简单数据类型/2.3" />
     <SUITE FILE_PATH="coverage/Python$print_models.coverage" NAME="print_models Coverage Results" MODIFIED="1543047494369" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python基础/函数/8.7" />
+    <SUITE FILE_PATH="coverage/Python$ordered_dict.coverage" NAME="ordered_dict Coverage Results" MODIFIED="1543289523430" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python基础/类/9.5" />
+    <SUITE FILE_PATH="coverage/Python$import_admin.coverage" NAME="import_admin Coverage Results" MODIFIED="1543288995496" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python基础/类/9.4" />
     <SUITE FILE_PATH="coverage/Python$guest_lists.coverage" NAME="guest_lists Coverage Results" MODIFIED="1541227990981" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/列表简介/3.2" />
     <SUITE FILE_PATH="coverage/Python$describe_city.coverage" NAME="describe_city Coverage Results" MODIFIED="1543038632280" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python基础/函数/8.2" />
     <SUITE FILE_PATH="coverage/Python$number_of_people.coverage" NAME="number_of_people Coverage Results" MODIFIED="1543237418226" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python基础/类/9.2" />
@@ -68,10 +80,12 @@
     <SUITE FILE_PATH="coverage/Python$pets.coverage" NAME="pets Coverage Results" MODIFIED="1542969337468" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python基础/字典/6.4" />
     <SUITE FILE_PATH="coverage/Python$favorite_places.coverage" NAME="favorite_places Coverage Results" MODIFIED="1542970126154" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python基础/字典/6.4" />
     <SUITE FILE_PATH="coverage/Python$deli.coverage" NAME="deli Coverage Results" MODIFIED="1542952408448" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python基础/用户输入和while循环/7.3" />
+    <SUITE FILE_PATH="coverage/Python$icecream_stand.coverage" NAME="icecream_stand Coverage Results" MODIFIED="1543286546453" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python基础/类/9.3" />
     <SUITE FILE_PATH="coverage/Python$name_function.coverage" NAME="name_function Coverage Results" MODIFIED="1541076463488" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python$vocabulary.coverage" NAME="vocabulary Coverage Results" MODIFIED="1541755179520" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/字典/6.2" />
     <SUITE FILE_PATH="coverage/Python$count_20.coverage" NAME="count_20 Coverage Results" MODIFIED="1541472618795" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/操作列表/4.3" />
     <SUITE FILE_PATH="coverage/Python$print_functions.coverage" NAME="print_functions Coverage Results" MODIFIED="1543046987118" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python基础/函数/8.7" />
+    <SUITE FILE_PATH="coverage/Python$import_restaurant.coverage" NAME="import_restaurant Coverage Results" MODIFIED="1543288829592" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python基础/类/9.4" />
     <SUITE FILE_PATH="coverage/Python$pizza.coverage" NAME="pizza Coverage Results" MODIFIED="1541490638186" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/操作列表/4.4" />
     <SUITE FILE_PATH="coverage/Python$person.coverage" NAME="person Coverage Results" MODIFIED="1541753826699" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/字典/6.2" />
     <SUITE FILE_PATH="coverage/Python$age.coverage" NAME="age Coverage Results" MODIFIED="1541598080795" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/if语句/5.3" />
@@ -101,47 +115,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Python基础/类/9.1/restaurant.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret selection-end-line="9" selection-end-column="47" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Python基础/类/9.1/three_restaurants.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="308">
-              <caret line="14" selection-start-line="14" selection-end-line="14" selection-end-column="47" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Python基础/类/9.1/user.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="308">
-              <caret line="14" selection-start-line="14" selection-end-line="14" selection-end-column="55" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Python基础/类/9.2/number_of_people.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="396">
-              <caret line="24" column="46" lean-forward="true" selection-start-line="24" selection-start-column="46" selection-end-line="24" selection-end-column="46" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Python基础/类/9.2/user.py">
+        <entry file="file://$PROJECT_DIR$/Python基础/类/9.5/die.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="396">
-              <caret line="18" column="31" lean-forward="true" selection-start-line="18" selection-start-column="31" selection-end-line="18" selection-end-column="31" />
+            <state relative-caret-position="418">
+              <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
             </state>
           </provider>
         </entry>
@@ -162,15 +140,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/字典/6.2/vocabulary.py" />
-        <option value="$PROJECT_DIR$/字典/6.3/vocabulary_2.py" />
-        <option value="$PROJECT_DIR$/字典/6.3/river.py" />
-        <option value="$PROJECT_DIR$/字典/6.3/survey.py" />
-        <option value="$PROJECT_DIR$/数据分析库练习/Numpy/first.py" />
-        <option value="$PROJECT_DIR$/数据分析库练习/Numpy/numpy.py" />
-        <option value="$PROJECT_DIR$/数据分析库练习/numpy.py" />
-        <option value="$PROJECT_DIR$/数据分析库练习/test_numpy.py" />
-        <option value="$PROJECT_DIR$/数据分析/numpy_practice.py" />
         <option value="$PROJECT_DIR$/数据分析/test.py" />
         <option value="$PROJECT_DIR$/Python基础/用户输入和while循环/car_renting.py" />
         <option value="$PROJECT_DIR$/Python基础/用户输入和while循环/7.1/restaurant_reservation.py" />
@@ -208,11 +177,20 @@
         <option value="$PROJECT_DIR$/Python基础/函数/8.4/magician.py" />
         <option value="$PROJECT_DIR$/Python基础/函数/8.4/great_magician.py" />
         <option value="$PROJECT_DIR$/Python基础/函数/8.4/invariable_magician.py" />
-        <option value="$PROJECT_DIR$/Python基础/类/9.1/restaurant.py" />
         <option value="$PROJECT_DIR$/Python基础/类/9.1/three_restaurants.py" />
         <option value="$PROJECT_DIR$/Python基础/类/9.2/number_of_people.py" />
         <option value="$PROJECT_DIR$/Python基础/类/9.1/user.py" />
         <option value="$PROJECT_DIR$/Python基础/类/9.2/user.py" />
+        <option value="$PROJECT_DIR$/Python基础/类/9.3/icecream_stand.py" />
+        <option value="$PROJECT_DIR$/Python基础/类/9.3/admin.py" />
+        <option value="$PROJECT_DIR$/Python基础/类/9.3/electric_car.py" />
+        <option value="$PROJECT_DIR$/Python基础/类/9.1/restaurant.py" />
+        <option value="$PROJECT_DIR$/Python基础/类/9.4/import_restaurant.py" />
+        <option value="$PROJECT_DIR$/Python基础/类/9.3/privileges.py" />
+        <option value="$PROJECT_DIR$/Python基础/类/9.4/import_admin.py" />
+        <option value="$PROJECT_DIR$/Python基础/类/9.4/import_more.py" />
+        <option value="$PROJECT_DIR$/Python基础/类/9.5/ordered_dict.py" />
+        <option value="$PROJECT_DIR$/Python基础/类/9.5/die.py" />
       </list>
     </option>
   </component>
@@ -246,7 +224,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -270,12 +247,13 @@
               <item name="Python" type="462c0819:PsiDirectoryNode" />
               <item name="Python基础" type="462c0819:PsiDirectoryNode" />
               <item name="类" type="462c0819:PsiDirectoryNode" />
-              <item name="9.2" type="462c0819:PsiDirectoryNode" />
+              <item name="9.5" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -314,7 +292,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.user (1)">
+  <component name="RunManager" selected="Python.die">
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -337,7 +315,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="number_of_people" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="die" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -345,12 +323,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="D:\Anaconda\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python基础/类/9.2" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python基础/类/9.5" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python基础/类/9.2/number_of_people.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python基础/类/9.5/die.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -359,7 +337,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="restaurant" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="electric_car" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -367,12 +345,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="D:\Anaconda\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python基础/类/9.1" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python基础/类/9.3" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python基础/类/9.1/restaurant.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python基础/类/9.3/electric_car.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -381,7 +359,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="three_restaurants" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="import_admin" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -389,12 +367,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="D:\Anaconda\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python基础/类/9.1" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python基础/类/9.4" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python基础/类/9.1/three_restaurants.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python基础/类/9.4/import_admin.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -403,7 +381,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="user (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="import_restaurant" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -411,12 +389,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="D:\Anaconda\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python基础/类/9.2" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python基础/类/9.4" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python基础/类/9.2/user.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python基础/类/9.4/import_restaurant.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -425,7 +403,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="user" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="ordered_dict" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -433,12 +411,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="D:\Anaconda\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python基础/类/9.1" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python基础/类/9.5" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python基础/类/9.1/user.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python基础/类/9.5/ordered_dict.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -449,11 +427,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.user (1)" />
-        <item itemvalue="Python.user" />
-        <item itemvalue="Python.number_of_people" />
-        <item itemvalue="Python.three_restaurants" />
-        <item itemvalue="Python.restaurant" />
+        <item itemvalue="Python.die" />
+        <item itemvalue="Python.ordered_dict" />
+        <item itemvalue="Python.import_admin" />
+        <item itemvalue="Python.import_restaurant" />
+        <item itemvalue="Python.electric_car" />
       </list>
     </recent_temporary>
   </component>
@@ -473,6 +451,7 @@
       <workItem from="1543037157646" duration="6047000" />
       <workItem from="1543044662113" duration="6549000" />
       <workItem from="1543234739513" duration="3573000" />
+      <workItem from="1543285254181" duration="4948000" />
     </task>
     <servers />
   </component>
@@ -482,13 +461,13 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="32689000" />
+    <option name="totallyTimeSpent" value="37637000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1096" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16684435" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1684435" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -512,12 +491,12 @@
       <window_info anchor="right" x="0" y="0" width="434" height="896" id="Documentation" order="5" side_tool="true" weight="0.32995737" />
     </layout>
     <layout-to-restore>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16684435" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1684435" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3298647" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.35239086" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.35239086" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39854318" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -540,42 +519,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Python基础/if语句/5.3/favorite_fruits.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Python基础/字典/6.2/vocabulary.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="15" selection-start-line="15" selection-end-line="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Python基础/字典/6.3/vocabulary_2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="7" column="25" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Python基础/字典/6.3/river.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="15" selection-start-line="15" selection-end-line="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Python基础/字典/6.3/survey.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/数据分析库练习/Numpy/first.py" />
-    <entry file="file://$PROJECT_DIR$/数据分析库练习/Numpy/numpy.py" />
-    <entry file="file://$PROJECT_DIR$/数据分析库练习/numpy_practice.py" />
-    <entry file="file://$PROJECT_DIR$/数据分析/numpy_practice.py" />
-    <entry file="file://$PROJECT_DIR$/数据分析/test.py" />
     <entry file="file://$PROJECT_DIR$/Python基础/用户输入和while循环/7.1/car_renting.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -815,17 +758,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Python基础/类/9.1/restaurant.py">
+    <entry file="file://$PROJECT_DIR$/Python基础/类/9.2/number_of_people.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="9" selection-end-column="47" />
+        <state relative-caret-position="528">
+          <caret line="24" column="46" selection-start-line="24" selection-start-column="46" selection-end-line="24" selection-end-column="46" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Python基础/类/9.2/number_of_people.py">
+    <entry file="file://$PROJECT_DIR$/Python基础/类/9.2/user.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="396">
-          <caret line="24" column="46" lean-forward="true" selection-start-line="24" selection-start-column="46" selection-end-line="24" selection-end-column="46" />
+          <caret line="18" column="31" selection-start-line="18" selection-start-column="31" selection-end-line="18" selection-end-column="31" />
         </state>
       </provider>
     </entry>
@@ -836,6 +779,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Python基础/类/9.3/icecream_stand.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Python基础/类/9.1/user.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="308">
@@ -843,10 +793,76 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Python基础/类/9.2/user.py">
+    <entry file="file://$PROJECT_DIR$/Python基础/类/9.3/electric_car.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="18" column="31" lean-forward="true" selection-start-line="18" selection-start-column="31" selection-end-line="18" selection-end-column="31" />
+        <state relative-caret-position="1716">
+          <caret line="78" selection-start-line="78" selection-end-line="78" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python基础/类/9.1/restaurant.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="12" selection-start-line="12" selection-start-column="2" selection-end-line="18" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python基础/类/9.4/import_restaurant.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python基础/类/9.3/admin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="506">
+          <caret line="23" selection-start-line="23" selection-end-line="23" selection-end-column="83" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python基础/类/9.3/privileges.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="397">
+          <caret line="28" selection-start-line="28" selection-start-column="2" selection-end-line="29" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python基础/类/9.4/import_more.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="3" column="30" selection-start-line="3" selection-start-column="30" selection-end-line="3" selection-end-column="30" />
+          <folding>
+            <element signature="e#0#17#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python基础/类/9.4/import_admin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python基础/类/9.5/ordered_dict.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python基础/字典/6.2/vocabulary.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="8" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python基础/类/9.5/die.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
         </state>
       </provider>
     </entry>

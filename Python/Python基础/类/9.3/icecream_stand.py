@@ -10,10 +10,14 @@ class Restaurant():
         print(self.restaurant_name + '餐厅正在营业！')
 
 
-# restaurant = Restaurant('全聚德', '北京烤鸭')
-#
-# print(restaurant.restaurant_name)
-# print(restaurant.cuisine_type)
-#
-# restaurant.describe_restaurant()
-# restaurant.open_restaurant()
+class IceCreamStand(Restaurant):
+    def __init__(self, restaurant_name, cuisine_type, flavors):
+        super().__init__(restaurant_name, cuisine_type)
+        self.flavors = flavors
+
+    def print_flavors(self):
+        print(self.flavors)
+
+
+icecream_stand = IceCreamStand('麦当劳', '雪糕', ['草莓味', '原味'])
+icecream_stand.print_flavors()
