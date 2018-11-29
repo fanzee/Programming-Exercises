@@ -1,0 +1,3 @@
+In Python you can do machine learing
+In Python you can do web project
+In Python you can develop game
