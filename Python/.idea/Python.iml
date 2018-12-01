@@ -4,6 +4,8 @@
     <content url="file://$MODULE_DIR$">
       <sourceFolder url="file://$MODULE_DIR$/Python基础/类/9.1" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Python基础/类/9.3" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Python基础/测试代码/11.1" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Python基础/测试代码/11.2" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/resourse" />
       <excludeFolder url="file://$MODULE_DIR$/venv" />
     </content>
